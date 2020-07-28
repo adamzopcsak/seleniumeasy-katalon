@@ -41,4 +41,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/NavigateToInputFormSubmitPage</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>bdf6fabd-3be6-4da6-a9b9-6867be093125</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NavigateToAjaxFormSumbitPage</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>02a50566-c9bf-4072-b623-50931ecccea9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NavigateToJQuerySelectDropdownPage</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -16,3 +16,21 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://seleniumeasy.com/test')
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('TestPage/popupCloseBtn'))
+
+WebUI.click(findTestObject('TestPage/inputFormsMenu'))
+
+WebUI.click(findTestObject('TestPage/selectDropdownListOpt'))
+
+WebUI.verifyElementText(findTestObject('SelectDropdownListPage/selectDropdownListPageHeader'), 'This would be your first example on select dropd down list to with Selenium.')
+
+WebUI.closeBrowser()
+

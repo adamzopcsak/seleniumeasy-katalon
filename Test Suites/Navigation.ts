@@ -29,4 +29,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/NavigateToRadioButtonsDemoPage</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f8d3dd0a-22ce-40d2-91d0-6c190e6c39d6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NavigateToSelectDropdownListPage</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

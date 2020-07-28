@@ -16,4 +16,4 @@ As the aim of the project is only learning Katalon Studio, manual test cases hav
 
 ## Reports
 
-Tests reports will be constantly pushed to this repository, so I can evaluate them in the future.
+Tests reports will be constantly pushed to this repository, so I can evaluate them in the future. As the reports will be pushed almost with every commit, the commit messages won't mention them at all. 

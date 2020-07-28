@@ -27,6 +27,6 @@
       <guid>50514434-aa73-4995-8b92-6e2078edea28</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/NavigateToRadioButtonsDemo</testCaseId>
+      <testCaseId>Test Cases/NavigateToRadioButtonsDemoPage</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

@@ -35,4 +35,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/NavigateToSelectDropdownListPage</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>8e7dfdac-cca9-46ab-8137-d61565e78360</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/NavigateToInputFormSubmitPage</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

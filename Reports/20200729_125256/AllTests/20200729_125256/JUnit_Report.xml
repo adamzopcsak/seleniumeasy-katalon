@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AllTests" time="118.595" tests="8" failures="0" errors="0">
+   <testsuite name="AllTests" tests="8" failures="0" errors="0" time="118.595" timestamp="2020-07-29 12:52:58" hostname="adamz - DESKTOP-9O3DKQB" id="Test Suites/AllTests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200729_125256\\AllTests\\20200729_125256"/>
+         <property name="logFiles" value="C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200729_125256\\AllTests\\20200729_125256\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="adamz - DESKTOP-9O3DKQB"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.6.2.205"/>
+         <property name="browser" value="Chrome 84.0.4147.105"/>
+         <property name="hostAddress" value="10.202.0.2"/>
+         <property name="sessionId" value="98a0e47c37d4a1157d9cd195140e59ed"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=\&quot;\&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Navigation/NavigateToAjaxFormSumbitPage" time="16.23" classname="Test Cases/Navigation/NavigateToAjaxFormSumbitPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:52:58 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToAjaxFormSumbitPage: Test Cases/Navigation/NavigateToAjaxFormSumbitPage
+
+2020-07-29 12:52:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:52:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:52:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:53:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:53:03 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:53:05 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:53:05 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:09 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:53:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:53:11 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:12 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:13 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/ajaxFormSubmitOpt")): Object: 'Object Repository/TestPage/ajaxFormSubmitOpt' is clicked on
+
+2020-07-29 12:53:14 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/ajaxFormSubmitOpt' is clicked on
+
+2020-07-29 12:53:14 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("AjaxFormSubmitPage/ajaxFormSubmitPageHeader")): Object 'Object Repository/AjaxFormSubmitPage/ajaxFormSubmitPageHeader' is visible
+
+2020-07-29 12:53:14 - [MESSAGE][PASSED] - Object 'Object Repository/AjaxFormSubmitPage/ajaxFormSubmitPageHeader' is visible
+
+2020-07-29 12:53:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:53:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToCheckboxDemoPage" time="14.771" classname="Test Cases/Navigation/NavigateToCheckboxDemoPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:53:14 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToCheckboxDemoPage: Test Cases/Navigation/NavigateToCheckboxDemoPage
+
+2020-07-29 12:53:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:53:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:53:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:53:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:53:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:53:20 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:53:20 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:23 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:53:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:53:25 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:26 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:26 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:27 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/checkboxDemoOpt")): Object: 'Object Repository/TestPage/checkboxDemoOpt' is clicked on
+
+2020-07-29 12:53:28 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/checkboxDemoOpt' is clicked on
+
+2020-07-29 12:53:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CheckboxDemoPage/checkboxDemoHeader"), 0): Object 'Object Repository/CheckboxDemoPage/checkboxDemoHeader' is present
+
+2020-07-29 12:53:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-29 12:53:29 - [MESSAGE][PASSED] - Object 'Object Repository/CheckboxDemoPage/checkboxDemoHeader' is present
+
+2020-07-29 12:53:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:53:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToInputFormSubmitPage" time="15.191" classname="Test Cases/Navigation/NavigateToInputFormSubmitPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:53:29 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToInputFormSubmitPage: Test Cases/Navigation/NavigateToInputFormSubmitPage
+
+2020-07-29 12:53:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:53:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:53:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:53:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:53:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:53:35 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:53:35 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:39 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:53:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:53:41 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:42 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:42 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormSubmitOpt")): Object: 'Object Repository/TestPage/inputFormSubmitOpt' is clicked on
+
+2020-07-29 12:53:43 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormSubmitOpt' is clicked on
+
+2020-07-29 12:53:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("ImputFormSubmitPage/inputFormSumbitPageHeader"), "Input form with validations"): Actual text and expected text of test object 'Object Repository/ImputFormSubmitPage/inputFormSumbitPageHeader' are matched.
+
+2020-07-29 12:53:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ImputFormSubmitPage/inputFormSumbitPageHeader' are matched.
+
+2020-07-29 12:53:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:53:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToJQuerySelectDropdownPage" time="15.705" classname="Test Cases/Navigation/NavigateToJQuerySelectDropdownPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:53:44 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToJQuerySelectDropdownPage: Test Cases/Navigation/NavigateToJQuerySelectDropdownPage
+
+2020-07-29 12:53:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:53:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:53:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:53:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:53:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:53:50 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:53:50 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:55 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:53:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:53:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:53:57 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:53:57 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:53:57 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/jQuerySelectDropdownOpt")): Object: 'Object Repository/TestPage/jQuerySelectDropdownOpt' is clicked on
+
+2020-07-29 12:53:59 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/jQuerySelectDropdownOpt' is clicked on
+
+2020-07-29 12:53:59 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader"), 0): Object 'Object Repository/JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader' is present
+
+2020-07-29 12:53:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-29 12:54:00 - [MESSAGE][PASSED] - Object 'Object Repository/JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader' is present
+
+2020-07-29 12:54:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:54:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToRadioButtonsDemoPage" time="14.658" classname="Test Cases/Navigation/NavigateToRadioButtonsDemoPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:54:00 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToRadioButtonsDemoPage: Test Cases/Navigation/NavigateToRadioButtonsDemoPage
+
+2020-07-29 12:54:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:54:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:54:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:54:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:54:03 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:54:05 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:54:05 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:54:10 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:54:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:54:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:54:12 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:12 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:13 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/radioButtonsDemoOpt")): Object: 'Object Repository/TestPage/radioButtonsDemoOpt' is clicked on
+
+2020-07-29 12:54:14 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/radioButtonsDemoOpt' is clicked on
+
+2020-07-29 12:54:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("RadioButtonsDemoPage/RadioButtonsPageHeader"), "This is again simple example to start working with radio buttons using Selenium."): Actual text and expected text of test object 'Object Repository/RadioButtonsDemoPage/RadioButtonsPageHeader' are matched.
+
+2020-07-29 12:54:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/RadioButtonsDemoPage/RadioButtonsPageHeader' are matched.
+
+2020-07-29 12:54:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:54:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToSelectDropdownListPage" time="15.056" classname="Test Cases/Navigation/NavigateToSelectDropdownListPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:54:15 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToSelectDropdownListPage: Test Cases/Navigation/NavigateToSelectDropdownListPage
+
+2020-07-29 12:54:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:54:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:54:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:54:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:54:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:54:20 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:54:20 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:54:25 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-29 12:54:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:54:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:54:27 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:27 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:27 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/selectDropdownListOpt")): Object: 'Object Repository/TestPage/selectDropdownListOpt' is clicked on
+
+2020-07-29 12:54:29 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/selectDropdownListOpt' is clicked on
+
+2020-07-29 12:54:29 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("SelectDropdownListPage/selectDropdownListPageHeader"), "This would be your first example on select dropd down list to with Selenium."): Actual text and expected text of test object 'Object Repository/SelectDropdownListPage/selectDropdownListPageHeader' are matched.
+
+2020-07-29 12:54:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/SelectDropdownListPage/selectDropdownListPageHeader' are matched.
+
+2020-07-29 12:54:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:54:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/NavigateToSimpleFormDemoPage" time="14.092" classname="Test Cases/Navigation/NavigateToSimpleFormDemoPage" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:54:30 - [TEST_CASE][PASSED] - Test Cases/Navigation/NavigateToSimpleFormDemoPage: Test Cases/Navigation/NavigateToSimpleFormDemoPage
+
+2020-07-29 12:54:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:54:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:54:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:54:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:54:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:54:35 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:54:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/"): Navigate to 'https://www.seleniumeasy.com/test/' successfully
+
+2020-07-29 12:54:39 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/' successfully
+
+2020-07-29 12:54:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:54:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:54:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-29 12:54:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/simpleFormDemoOpt")): Object: 'Object Repository/TestPage/simpleFormDemoOpt' is clicked on
+
+2020-07-29 12:54:43 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/simpleFormDemoOpt' is clicked on
+
+2020-07-29 12:54:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("SimpleFormDemoPage/simpleFormDemoPageHeader"), 0): Object 'Object Repository/SimpleFormDemoPage/simpleFormDemoPageHeader' is present
+
+2020-07-29 12:54:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-29 12:54:43 - [MESSAGE][PASSED] - Object 'Object Repository/SimpleFormDemoPage/simpleFormDemoPageHeader' is present
+
+2020-07-29 12:54:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:54:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SimpleForm/textInputSimpleForm" time="12.622" classname="Test Cases/SimpleForm/textInputSimpleForm" status="PASSED">
+         <system-out><![CDATA[2020-07-29 12:54:44 - [TEST_CASE][PASSED] - Test Cases/SimpleForm/textInputSimpleForm: Test Cases/SimpleForm/textInputSimpleForm
+
+2020-07-29 12:54:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-29 12:54:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-29 12:54:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-29 12:54:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-29 12:54:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-29 12:54:49 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-29 12:54:49 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/basic-first-form-demo.html"): Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-29 12:54:53 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-29 12:54:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-29 12:54:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-29 12:54:55 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:55 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-29 12:54:55 - [TEST_STEP][PASSED] - sendKeys(findTestObject("SimpleFormDemoPage/textInputSimpleForm"), textInput): Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/textInputSimpleForm'
+
+2020-07-29 12:54:55 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/textInputSimpleForm'
+
+2020-07-29 12:54:55 - [TEST_STEP][PASSED] - click(findTestObject("SimpleFormDemoPage/showMessageBtn")): Object: 'Object Repository/SimpleFormDemoPage/showMessageBtn' is clicked on
+
+2020-07-29 12:54:56 - [MESSAGE][PASSED] - Object: 'Object Repository/SimpleFormDemoPage/showMessageBtn' is clicked on
+
+2020-07-29 12:54:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("SimpleFormDemoPage/printedValueFromTextInput"), textInput): Actual text and expected text of test object 'Object Repository/SimpleFormDemoPage/printedValueFromTextInput' are matched.
+
+2020-07-29 12:54:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/SimpleFormDemoPage/printedValueFromTextInput' are matched.
+
+2020-07-29 12:54:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-29 12:54:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-07-29 12:52:58 - [TEST_SUITE][PASSED] - AllTests: Test Cases/SimpleForm/textInputSimpleForm]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

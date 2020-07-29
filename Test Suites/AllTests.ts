@@ -65,4 +65,28 @@
          <variableId>b6ecd08d-a711-4af0-88ce-ccae9c9b3722</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f341d5b6-c45c-400a-b6f0-95ba496bfa27</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SimpleForm/numberInputSimpleForm</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bffd2628-5e35-485f-9c13-7cefd3e9745c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1e475c49-0e93-4266-a1ef-c953e7814d03</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>13a4a1a1-1aff-4b18-b67c-a7cd077b2402</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

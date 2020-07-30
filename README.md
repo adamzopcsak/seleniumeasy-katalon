@@ -4,7 +4,8 @@ This project is about practicing the testing tool Katalon Studio (https://www.ka
 
 ## Purpose
 
-The aim of this project is to practice the features and usage of Katalon Studio.
+The aim of this project is to practice the features and usage of Katalon Studio. When creating the test cases, I focus on trying different features of Katalon studio.
+As this is not a real project, efficiency and stability is not the purpose of the test design.
 
 ## Selenium Easy Website
 
@@ -13,7 +14,3 @@ The Selenium Easy website (https://www.seleniumeasy.com/test) was choosen for th
 ## Manual test cases
 
 As the aim of the project is only learning Katalon Studio, manual test cases haven't been implemented.
-
-## Reports
-
-Tests reports will be constantly pushed to this repository, so I can evaluate them in the future. As the reports will be pushed almost with every commit, the commit messages won't mention them at all. 

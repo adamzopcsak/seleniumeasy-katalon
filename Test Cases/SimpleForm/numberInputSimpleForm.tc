@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>numberInputSimpleForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a95dea14-f21f-43da-b7ba-4e3f2c695346</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bffd2628-5e35-485f-9c13-7cefd3e9745c</id>
+      <masked>false</masked>
+      <name>numberA</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e475c49-0e93-4266-a1ef-c953e7814d03</id>
+      <masked>false</masked>
+      <name>numberB</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13a4a1a1-1aff-4b18-b67c-a7cd077b2402</id>
+      <masked>false</masked>
+      <name>numberResult</name>
+   </variable>
+</TestCaseEntity>

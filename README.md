@@ -14,3 +14,7 @@ The Selenium Easy website (https://www.seleniumeasy.com/test) was choosen for th
 ## Manual test cases
 
 As the aim of the project is only learning Katalon Studio, manual test cases haven't been implemented.
+
+## Reports and logs
+
+The first couple of reports and logs were pushed to this repository, so I can evaluate them in the future.

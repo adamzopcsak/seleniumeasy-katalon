@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AllTests" time="148.121" tests="10" failures="1" errors="0">
+   <testsuite name="AllTests" tests="10" failures="1" errors="0" time="148.121" timestamp="2020-07-30 12:55:04" hostname="adamz - DESKTOP-9O3DKQB" id="Test Suites/AllTests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503"/>
+         <property name="logFiles" value="C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503\\1596106641300.png, C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503\\1596106641691.png"/>
+         <property name="hostName" value="adamz - DESKTOP-9O3DKQB"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.6.2.205"/>
+         <property name="browser" value="Chrome 84.0.4147.105"/>
+         <property name="hostAddress" value="10.202.0.2"/>
+         <property name="sessionId" value="76fcf7dcad39c9afa220dafa72206876"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=\&quot;\&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Navigation/navigateToAjaxFormSumbitPageTest" time="16.887" classname="Test Cases/Navigation/navigateToAjaxFormSumbitPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:55:05 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToAjaxFormSumbitPageTest: Test Cases/Navigation/navigateToAjaxFormSumbitPageTest
+
+2020-07-30 12:55:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:55:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:55:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:55:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:55:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:55:11 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:55:11 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:16 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:55:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:55:18 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:19 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:19 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/ajaxFormSubmitOpt")): Object: 'Object Repository/TestPage/ajaxFormSubmitOpt' is clicked on
+
+2020-07-30 12:55:20 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/ajaxFormSubmitOpt' is clicked on
+
+2020-07-30 12:55:20 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("AjaxFormSubmitPage/ajaxFormSubmitPageHeader")): Object 'Object Repository/AjaxFormSubmitPage/ajaxFormSubmitPageHeader' is visible
+
+2020-07-30 12:55:21 - [MESSAGE][PASSED] - Object 'Object Repository/AjaxFormSubmitPage/ajaxFormSubmitPageHeader' is visible
+
+2020-07-30 12:55:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:55:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToCheckboxDemoPageTest" time="15.532" classname="Test Cases/Navigation/navigateToCheckboxDemoPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:55:21 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToCheckboxDemoPageTest: Test Cases/Navigation/navigateToCheckboxDemoPageTest
+
+2020-07-30 12:55:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:55:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:55:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:55:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:55:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:55:27 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:55:27 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:32 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:55:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:55:34 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:34 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:34 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:35 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:35 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/checkboxDemoOpt")): Object: 'Object Repository/TestPage/checkboxDemoOpt' is clicked on
+
+2020-07-30 12:55:36 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/checkboxDemoOpt' is clicked on
+
+2020-07-30 12:55:36 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CheckboxDemoPage/checkboxDemoHeader"), 0): Object 'Object Repository/CheckboxDemoPage/checkboxDemoHeader' is present
+
+2020-07-30 12:55:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-30 12:55:36 - [MESSAGE][PASSED] - Object 'Object Repository/CheckboxDemoPage/checkboxDemoHeader' is present
+
+2020-07-30 12:55:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:55:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToInputFormSubmitPageTest" time="15.781" classname="Test Cases/Navigation/navigateToInputFormSubmitPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:55:37 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToInputFormSubmitPageTest: Test Cases/Navigation/navigateToInputFormSubmitPageTest
+
+2020-07-30 12:55:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:55:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:55:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:55:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:55:40 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:55:42 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:55:42 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:47 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:55:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:55:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:55:49 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:50 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:55:50 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:50 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:55:50 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormSubmitOpt")): Object: 'Object Repository/TestPage/inputFormSubmitOpt' is clicked on
+
+2020-07-30 12:55:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormSubmitOpt' is clicked on
+
+2020-07-30 12:55:52 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("ImputFormSubmitPage/inputFormSumbitPageHeader"), "Input form with validations"): Actual text and expected text of test object 'Object Repository/ImputFormSubmitPage/inputFormSumbitPageHeader' are matched.
+
+2020-07-30 12:55:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ImputFormSubmitPage/inputFormSumbitPageHeader' are matched.
+
+2020-07-30 12:55:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:55:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToJQuerySelectDropdownPageTest" time="16.129" classname="Test Cases/Navigation/navigateToJQuerySelectDropdownPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:55:53 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToJQuerySelectDropdownPageTest: Test Cases/Navigation/navigateToJQuerySelectDropdownPageTest
+
+2020-07-30 12:55:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:55:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:55:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:55:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:55:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:55:58 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:55:58 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:03 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:56:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:56:05 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:06 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:06 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:06 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:06 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/jQuerySelectDropdownOpt")): Object: 'Object Repository/TestPage/jQuerySelectDropdownOpt' is clicked on
+
+2020-07-30 12:56:08 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/jQuerySelectDropdownOpt' is clicked on
+
+2020-07-30 12:56:08 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader"), 0): Object 'Object Repository/JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader' is present
+
+2020-07-30 12:56:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-30 12:56:08 - [MESSAGE][PASSED] - Object 'Object Repository/JQuerySelectDropdownPage/jQuerySelectDropdownPageHeader' is present
+
+2020-07-30 12:56:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:56:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToRadioButtonsDemoPageTest" time="15.864" classname="Test Cases/Navigation/navigateToRadioButtonsDemoPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:56:09 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToRadioButtonsDemoPageTest: Test Cases/Navigation/navigateToRadioButtonsDemoPageTest
+
+2020-07-30 12:56:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:56:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:56:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:56:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:56:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:56:14 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:56:14 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:19 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:56:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:56:21 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:22 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:23 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/radioButtonsDemoOpt")): Object: 'Object Repository/TestPage/radioButtonsDemoOpt' is clicked on
+
+2020-07-30 12:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/radioButtonsDemoOpt' is clicked on
+
+2020-07-30 12:56:24 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("RadioButtonsDemoPage/RadioButtonsPageHeader"), "This is again simple example to start working with radio buttons using Selenium."): Actual text and expected text of test object 'Object Repository/RadioButtonsDemoPage/RadioButtonsPageHeader' are matched.
+
+2020-07-30 12:56:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/RadioButtonsDemoPage/RadioButtonsPageHeader' are matched.
+
+2020-07-30 12:56:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:56:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToSelectDropdownListPageTest" time="15.744" classname="Test Cases/Navigation/navigateToSelectDropdownListPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:56:25 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToSelectDropdownListPageTest: Test Cases/Navigation/navigateToSelectDropdownListPageTest
+
+2020-07-30 12:56:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:56:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:56:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:56:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:56:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:56:30 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:56:30 - [TEST_STEP][PASSED] - navigateToUrl("https://seleniumeasy.com/test"): Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:35 - [MESSAGE][PASSED] - Navigate to 'https://seleniumeasy.com/test' successfully
+
+2020-07-30 12:56:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:56:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:56:37 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:38 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:38 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:38 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:38 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/selectDropdownListOpt")): Object: 'Object Repository/TestPage/selectDropdownListOpt' is clicked on
+
+2020-07-30 12:56:39 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/selectDropdownListOpt' is clicked on
+
+2020-07-30 12:56:39 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("SelectDropdownListPage/selectDropdownListPageHeader"), "This would be your first example on select dropd down list to with Selenium."): Actual text and expected text of test object 'Object Repository/SelectDropdownListPage/selectDropdownListPageHeader' are matched.
+
+2020-07-30 12:56:40 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/SelectDropdownListPage/selectDropdownListPageHeader' are matched.
+
+2020-07-30 12:56:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:56:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Navigation/navigateToSimpleFormDemoPageTest" time="14.478" classname="Test Cases/Navigation/navigateToSimpleFormDemoPageTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:56:40 - [TEST_CASE][PASSED] - Test Cases/Navigation/navigateToSimpleFormDemoPageTest: Test Cases/Navigation/navigateToSimpleFormDemoPageTest
+
+2020-07-30 12:56:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:56:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:56:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:56:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:56:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:56:46 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:56:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/"): Navigate to 'https://www.seleniumeasy.com/test/' successfully
+
+2020-07-30 12:56:49 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/' successfully
+
+2020-07-30 12:56:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:56:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:56:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:56:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/inputFormsMenu")): Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:53 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/inputFormsMenu' is clicked on
+
+2020-07-30 12:56:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TestPage/simpleFormDemoOpt")): Object: 'Object Repository/TestPage/simpleFormDemoOpt' is clicked on
+
+2020-07-30 12:56:54 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/simpleFormDemoOpt' is clicked on
+
+2020-07-30 12:56:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("SimpleFormDemoPage/simpleFormDemoPageHeader"), 0): Object 'Object Repository/SimpleFormDemoPage/simpleFormDemoPageHeader' is present
+
+2020-07-30 12:56:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-07-30 12:56:54 - [MESSAGE][PASSED] - Object 'Object Repository/SimpleFormDemoPage/simpleFormDemoPageHeader' is present
+
+2020-07-30 12:56:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:56:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SimpleForm/textInputSimpleFormTest" time="13.052" classname="Test Cases/SimpleForm/textInputSimpleFormTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:56:55 - [TEST_CASE][PASSED] - Test Cases/SimpleForm/textInputSimpleFormTest: Test Cases/SimpleForm/textInputSimpleFormTest
+
+2020-07-30 12:56:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:56:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:56:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:56:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:56:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:57:00 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:57:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/basic-first-form-demo.html"): Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-30 12:57:04 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-30 12:57:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:57:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:57:06 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:57:06 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:57:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("SimpleFormDemoPage/textInputSimpleForm"), textInput): Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/textInputSimpleForm'
+
+2020-07-30 12:57:07 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/textInputSimpleForm'
+
+2020-07-30 12:57:07 - [TEST_STEP][PASSED] - click(findTestObject("SimpleFormDemoPage/showMessageBtn")): Object: 'Object Repository/SimpleFormDemoPage/showMessageBtn' is clicked on
+
+2020-07-30 12:57:07 - [MESSAGE][PASSED] - Object: 'Object Repository/SimpleFormDemoPage/showMessageBtn' is clicked on
+
+2020-07-30 12:57:07 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("SimpleFormDemoPage/printedValueFromTextInput"), textInput): Actual text and expected text of test object 'Object Repository/SimpleFormDemoPage/printedValueFromTextInput' are matched.
+
+2020-07-30 12:57:07 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/SimpleFormDemoPage/printedValueFromTextInput' are matched.
+
+2020-07-30 12:57:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:57:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SimpleForm/numberInputSimpleFormTest" time="13.514" classname="Test Cases/SimpleForm/numberInputSimpleFormTest" status="FAILED">
+         <failure type="FAILED" message="Test Cases/SimpleForm/numberInputSimpleFormTest FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2020-07-30 12:57:08 - [TEST_CASE][FAILED] - Test Cases/SimpleForm/numberInputSimpleFormTest: Test Cases/SimpleForm/numberInputSimpleFormTest FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2020-07-30 12:57:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:57:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:57:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:57:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:57:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:57:13 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:57:13 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/basic-first-form-demo.html"): Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-30 12:57:17 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/basic-first-form-demo.html' successfully
+
+2020-07-30 12:57:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-07-30 12:57:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-07-30 12:57:19 - [TEST_STEP][PASSED] - click(findTestObject("TestPage/popupCloseBtn")): Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:57:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TestPage/popupCloseBtn' is clicked on
+
+2020-07-30 12:57:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("SimpleFormDemoPage/a_numberInputField"), numberA): Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/a_numberInputField'
+
+2020-07-30 12:57:20 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/a_numberInputField'
+
+2020-07-30 12:57:20 - [TEST_STEP][PASSED] - sendKeys(findTestObject("SimpleFormDemoPage/b_numberInputField"), numberB): Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/b_numberInputField'
+
+2020-07-30 12:57:20 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/SimpleFormDemoPage/b_numberInputField'
+
+2020-07-30 12:57:20 - [TEST_STEP][PASSED] - click(findTestObject("SimpleFormDemoPage/getTotalBtn")): Object: 'Object Repository/SimpleFormDemoPage/getTotalBtn' is clicked on
+
+2020-07-30 12:57:20 - [MESSAGE][PASSED] - Object: 'Object Repository/SimpleFormDemoPage/getTotalBtn' is clicked on
+
+2020-07-30 12:57:20 - [TEST_STEP][FAILED] - verifyElementText(findTestObject("SimpleFormDemoPage/resultNumber"), numberResult): Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+
+2020-07-30 12:57:21 - [MESSAGE][FAILED] - Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched. (Root cause: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+)
+[[ATTACHMENT|C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503\\1596106641300.png]]
+
+2020-07-30 12:57:22 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+[[ATTACHMENT|C:\\Users\\adamz\\git\\seleniumeasy-katalon\\Reports\\20200730_125503\\AllTests\\20200730_125503\\1596106641691.png]]]]></system-out>
+         <system-err><![CDATA[2020-07-30 12:57:08 - [TEST_CASE][FAILED] - Test Cases/SimpleForm/numberInputSimpleFormTest: Test Cases/SimpleForm/numberInputSimpleFormTest FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CheckBox/singleCheckboxCheckedTest" time="10.855" classname="Test Cases/CheckBox/singleCheckboxCheckedTest" status="PASSED">
+         <system-out><![CDATA[2020-07-30 12:57:22 - [TEST_CASE][PASSED] - Test Cases/CheckBox/singleCheckboxCheckedTest: Test Cases/CheckBox/singleCheckboxCheckedTest
+
+2020-07-30 12:57:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-07-30 12:57:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2020-07-30 12:57:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-07-30 12:57:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-07-30 12:57:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-07-30 12:57:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2020-07-30 12:57:28 - [MESSAGE][PASSED] - Current window maximized
+
+2020-07-30 12:57:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.seleniumeasy.com/test/basic-checkbox-demo.html"): Navigate to 'https://www.seleniumeasy.com/test/basic-checkbox-demo.html' successfully
+
+2020-07-30 12:57:31 - [MESSAGE][PASSED] - Navigate to 'https://www.seleniumeasy.com/test/basic-checkbox-demo.html' successfully
+
+2020-07-30 12:57:31 - [TEST_STEP][PASSED] - check(findTestObject("CheckboxDemoPage/singleCB")): Object 'Object Repository/CheckboxDemoPage/singleCB' is checked
+
+2020-07-30 12:57:32 - [MESSAGE][PASSED] - Object 'Object Repository/CheckboxDemoPage/singleCB' is checked
+
+2020-07-30 12:57:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("CheckboxDemoPage/successText"), "Success - Check box is checked"): Actual text and expected text of test object 'Object Repository/CheckboxDemoPage/successText' are matched.
+
+2020-07-30 12:57:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/CheckboxDemoPage/successText' are matched.
+
+2020-07-30 12:57:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-07-30 12:57:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-07-30 12:55:04 - [TEST_SUITE][FAILED] - AllTests: Test Cases/SimpleForm/numberInputSimpleFormTest FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2020-07-30 12:55:04 - [TEST_SUITE][FAILED] - AllTests: Test Cases/SimpleForm/numberInputSimpleFormTest FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/SimpleFormDemoPage/resultNumber' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:73)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:3689)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementText$6.call(Unknown Source)
+	at numberInputSimpleFormTest.run(numberInputSimpleFormTest:35)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:339)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:330)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:309)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:301)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:235)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:191)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:141)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:90)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1596106503155.run(TempTestSuite1596106503155.groovy:39)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'NaN' and expected text '' of test object 'Object Repository/SimpleFormDemoPage/resultNumber' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

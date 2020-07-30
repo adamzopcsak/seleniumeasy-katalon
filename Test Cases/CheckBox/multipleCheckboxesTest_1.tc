@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>multipleCheckboxesTest_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>626b0a21-8268-4823-b795-9ed064beec8a</testCaseGuid>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>60c75e82-48be-4ca9-b16e-e429b8aff4b8</id>
+      <masked>false</masked>
+      <name>options</name>
+   </variable>
+</TestCaseEntity>

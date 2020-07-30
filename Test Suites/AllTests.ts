@@ -101,4 +101,16 @@
          <variableId>5c231a39-e3cc-4614-a296-f41aae3a6ba4</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>8a2f59e3-e03f-45bc-aaa2-7649e42fe299</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CheckBox/multipleCheckboxesTest_1</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>60c75e82-48be-4ca9-b16e-e429b8aff4b8</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

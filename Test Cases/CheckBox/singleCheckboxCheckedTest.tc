@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>singleCheckboxCheckedTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de38f3e-c536-4d4e-b135-66d4542fb699</testCaseGuid>
+   <variable>
+      <defaultValue>'False'</defaultValue>
+      <description></description>
+      <id>5c231a39-e3cc-4614-a296-f41aae3a6ba4</id>
+      <masked>false</masked>
+      <name>isPopupVisible</name>
+   </variable>
+</TestCaseEntity>

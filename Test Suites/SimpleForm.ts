@@ -15,7 +15,7 @@
       <guid>0ded346c-4775-4c2e-890f-1f843759e0c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SimpleForm/textInputSimpleForm</testCaseId>
+      <testCaseId>Test Cases/SimpleForm/textInputSimpleFormTest</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>7c79fad5-8c53-4160-81ee-13735649d97e</id>
@@ -36,7 +36,7 @@
       <guid>ab7d45de-1100-46c2-a0f8-572cb218e214</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SimpleForm/numberInputSimpleForm</testCaseId>
+      <testCaseId>Test Cases/SimpleForm/numberInputSimpleFormTest</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>adf43301-a362-4e80-8268-4aa34c01fd0b</id>

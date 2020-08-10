@@ -16,3 +16,15 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.seleniumeasy.com/test/basic-radiobutton-demo.html')
+
+WebUI.click(findTestObject('RadioButtonsDemoPage/female_radio_button_multiple'))
+
+WebUI.click(findTestObject('RadioButtonsDemoPage/values_button_multiple'))
+
+WebUI.closeBrowser()
+

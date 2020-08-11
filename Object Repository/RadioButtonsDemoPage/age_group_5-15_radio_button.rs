@@ -6,12 +6,11 @@
    <elementGuidId>95b872cf-278b-44ae-9772-1c508724ded0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//input[@value='5 - 15']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@name='ageGroup'])[2]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

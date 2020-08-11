@@ -6,12 +6,12 @@
    <elementGuidId>53124230-51a4-4bfe-b7ed-bfbc3ddab506</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;ageGroup&quot;]</value>
+         <key>XPATH</key>
+         <value>//input[@value='0 - 5']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>input[name=&quot;ageGroup&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -56,7 +56,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='ageGroup']</value>
+      <value>//input[@value='0 - 5']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

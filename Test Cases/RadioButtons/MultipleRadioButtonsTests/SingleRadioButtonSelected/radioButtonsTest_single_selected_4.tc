@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>radioButtonsTest_multiple_5</name>
+   <name>radioButtonsTest_single_selected_4</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>be97d04d-6bf6-4715-9525-a5b9fdec8d51</testCaseGuid>
+   <testCaseGuid>6c18ea59-418c-48a6-8477-da39aee323da</testCaseGuid>
 </TestCaseEntity>

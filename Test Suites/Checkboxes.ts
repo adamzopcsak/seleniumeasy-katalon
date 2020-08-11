@@ -15,7 +15,7 @@
       <guid>e2ca3063-e36f-4969-8405-bbc525ede761</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CheckBox/singleCheckboxCheckedTest</testCaseId>
+      <testCaseId>Test Cases/CheckBox/SingleCheckboxTests/singleCheckboxCheckedTest</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

@@ -93,7 +93,7 @@
       <guid>ac9698f0-7aa1-4d52-903d-8967a9b6fa97</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CheckBox/singleCheckboxCheckedTest</testCaseId>
+      <testCaseId>Test Cases/CheckBox/SingleCheckboxTests/singleCheckboxCheckedTest</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -105,7 +105,7 @@
       <guid>8a2f59e3-e03f-45bc-aaa2-7649e42fe299</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/CheckBox/multipleCheckboxesTest_1</testCaseId>
+      <testCaseId>Test Cases/CheckBox/MultipleCheckboxesTests/multipleCheckboxesTest_1</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
